@@ -91,8 +91,8 @@
         "@types/web3-provider-engine": "^14.0.0",
         "ethereum-types": "^3.2.0",
         "ethers": "~4.0.4",
-        "lodash": "^4.17.11",
-        "web3-provider-engine": "14.0.6"
+        "lodash": "^4.17.17",
+        "web3-provider-engine": "16.0.7"
     },
     "publishConfig": {
         "access": "public"
